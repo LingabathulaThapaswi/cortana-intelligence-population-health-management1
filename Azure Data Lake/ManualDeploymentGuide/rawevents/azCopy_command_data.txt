@@ -1,0 +1,3 @@
+AzCopy /Source:https://populationhm.blob.core.windows.net/generatordata/ /Dest:https://<storageaccountname>.blob.core.windows.net/data /DestKey:EnterYourStorageAccountkeyhere /s
+  
+  
